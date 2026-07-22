@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/.cache/
+data/all_university_12month_ug_gr_attendance_2010_2024.csv
+data/all_university_12month_demographics_2010_2024.csv

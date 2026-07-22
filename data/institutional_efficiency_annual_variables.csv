@@ -1,0 +1,609 @@
+Year,TableName,varName,varTitle
+2015,DRVC2015,BASDEG,Bachelor's degree
+2015,DRVC2015,DOCDEGOT,Doctor's degree - other
+2015,DRVC2015,DOCDEGPP,Doctor's degree - professional practice
+2015,DRVC2015,DOCDEGRS,Doctor's degree - research/scholarship
+2015,DRVC2015,MASDEG,Master's degree
+2015,DRVC2015,SBASDEG,Number of students receiving a Bachelor's degree
+2015,DRVC2015,SDOCDEG,Number of students receiving a Doctor's degree
+2015,DRVC2015,SMASDEG,Number of students receiving a Master's degree
+2015,DRVEF122015,FTE12MN,12-month full-time equivalent enrollment: 2014-15
+2015,DRVEF122015,UNDUP,"12-month unduplicated headcount, total: 2014-15"
+2015,DRVF2015,F1COREXP,"Core expenses, total dollars (GASB)"
+2015,DRVF2015,F1CORREV,"Core revenues, total dollars (GASB)"
+2015,DRVF2015,F2COREXP,"Core expenses, total dollars (FASB)"
+2015,DRVF2015,F2CORREV,"Core revenues, total dollars (FASB)"
+2015,DRVF2015,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2015,DRVF2015,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2015,DRVHR2015,SFTEINST,Instructional FTE
+2015,DRVHR2015,SFTETOTL,Total FTE staff
+2015,EAP2015,EAPFT,Full-time employees
+2015,EAP2015,EAPPT,Part-time employees
+2015,EAP2015,EAPTOT,Total employees
+2015,EAP2015,FACSTAT,Faculty and tenure status
+2015,EAP2015,OCCUPCAT,Occupation
+2015,EFIA2015,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2014-15"
+2015,EFIA2015,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2014-15"
+2015,F1415_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2015,F1415_F1A,F1C011,Instruction - Current year total
+2015,F1415_F1A,F1C021,Research - Current year total
+2015,F1415_F1A,F1C051,Academic support - Current year total
+2015,F1415_F1A,F1C061,Student services - Current year total
+2015,F1415_F1A,F1C071,Institutional support - Current year total
+2015,F1415_F2,F2D01,Tuition and fees - Total
+2015,F1415_F2,F2E011,Instruction-Total amount
+2015,F1415_F2,F2E021,Research-Total amount
+2015,F1415_F2,F2E041,Academic support-Total amount
+2015,F1415_F2,F2E051,Student service-Total amount
+2015,F1415_F2,F2E061,Institutional support-Total amount
+2015,F1415_F3,F3D01,Tuition and fees
+2015,F1415_F3,F3E011,Instruction-Total amount
+2015,F1415_F3,F3E02A1,Research-Total amount
+2015,F1415_F3,F3E03A1,Academic support-Total amount
+2015,F1415_F3,F3E03B1,Student service-Total amount
+2015,F1415_F3,F3E03C1,Institutional support-Total amount
+2015,FLAGS2015,IDX_F,ID number of parent institution for Finance survey
+2015,FLAGS2015,PCF_F,Parent/child allocation factor - Finance
+2015,FLAGS2015,PRCH_F,Parent/child indicator for Finance survey
+2015,HD2015,C15BASIC,Carnegie Classification 2015: Basic
+2015,HD2015,CCBASIC,Carnegie Classification 2005/2010: Basic
+2015,HD2015,CONTROL,Control of institution
+2015,HD2015,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2015,HD2015,F1SYSNAM,Name of multi-institution or multi-campus organization
+2015,HD2015,F1SYSTYP,Multi-institution or multi-campus organization
+2015,HD2015,ICLEVEL,Level of institution
+2015,HD2015,INSTNM,Institution (entity) name
+2015,HD2015,STABBR,State abbreviation
+2015,S2015_IS,FACSTAT,Faculty and tenure status
+2015,S2015_NH,FACSTAT,Faculty and tenure status
+2015,S2015_NH,OCCUPCAT,Occupation
+2015,S2015_OC,OCCUPCAT,Occupation category
+2015,S2015_SIS,FACSTAT,Faculty and tenure status
+2016,DRVC2016,BASDEG,Bachelor's degree
+2016,DRVC2016,DOCDEGOT,Doctor's degree - other
+2016,DRVC2016,DOCDEGPP,Doctor's degree - professional practice
+2016,DRVC2016,DOCDEGRS,Doctor's degree - research/scholarship
+2016,DRVC2016,MASDEG,Master's degree
+2016,DRVC2016,SBASDEG,Number of students receiving a Bachelor's degree
+2016,DRVC2016,SDOCDEG,Number of students receiving a Doctor's degree
+2016,DRVC2016,SMASDEG,Number of students receiving a Master's degree
+2016,DRVEF122016,FTE12MN,12-month full-time equivalent enrollment: 2015-16
+2016,DRVEF122016,UNDUP,"12-month unduplicated headcount, total: 2015-16"
+2016,DRVF2016,F1COREXP,"Core expenses, total dollars (GASB)"
+2016,DRVF2016,F1CORREV,"Core revenues, total dollars (GASB)"
+2016,DRVF2016,F2COREXP,"Core expenses, total dollars (FASB)"
+2016,DRVF2016,F2CORREV,"Core revenues, total dollars (FASB)"
+2016,DRVF2016,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2016,DRVF2016,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2016,DRVHR2016,SFTEINST,Instructional FTE
+2016,DRVHR2016,SFTETOTL,Total FTE staff
+2016,EAP2016,EAPFT,Full-time employees
+2016,EAP2016,EAPPT,Part-time employees
+2016,EAP2016,EAPTOT,Total employees
+2016,EAP2016,FACSTAT,Faculty and tenure status
+2016,EAP2016,OCCUPCAT,Occupation
+2016,EFIA2016,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2015-16"
+2016,EFIA2016,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2015-16"
+2016,F1516_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2016,F1516_F1A,F1C011,Instruction - Current year total
+2016,F1516_F1A,F1C021,Research - Current year total
+2016,F1516_F1A,F1C051,Academic support - Current year total
+2016,F1516_F1A,F1C061,Student services - Current year total
+2016,F1516_F1A,F1C071,Institutional support - Current year total
+2016,F1516_F2,F2D01,Tuition and fees - Total
+2016,F1516_F2,F2E011,Instruction-Total amount
+2016,F1516_F2,F2E021,Research-Total amount
+2016,F1516_F2,F2E041,Academic support-Total amount
+2016,F1516_F2,F2E051,Student service-Total amount
+2016,F1516_F2,F2E061,Institutional support-Total amount
+2016,F1516_F3,F3D01,Tuition and fees
+2016,F1516_F3,F3E011,Instruction-Total amount
+2016,F1516_F3,F3E02A1,Research-Total amount
+2016,F1516_F3,F3E03A1,Academic support-Total amount
+2016,F1516_F3,F3E03B1,Student service-Total amount
+2016,F1516_F3,F3E03C1,Institutional support-Total amount
+2016,FLAGS2016,IDX_F,ID number of parent institution - Finance
+2016,FLAGS2016,PCF_F,Parent/child allocation factor - Finance
+2016,FLAGS2016,PRCH_F,Parent/child indicator - Finance
+2016,HD2016,C15BASIC,Carnegie Classification 2015: Basic
+2016,HD2016,CCBASIC,Carnegie Classification 2005/2010: Basic
+2016,HD2016,CONTROL,Control of institution
+2016,HD2016,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2016,HD2016,F1SYSNAM,Name of multi-institution or multi-campus organization
+2016,HD2016,F1SYSTYP,Multi-institution or multi-campus organization
+2016,HD2016,ICLEVEL,Level of institution
+2016,HD2016,INSTNM,Institution (entity) name
+2016,HD2016,STABBR,State abbreviation
+2016,S2016_IS,FACSTAT,Faculty and tenure status
+2016,S2016_NH,FACSTAT,Faculty and tenure status
+2016,S2016_NH,OCCUPCAT,Occupation
+2016,S2016_OC,OCCUPCAT,Occupation category
+2016,S2016_SIS,FACSTAT,Faculty and tenure status
+2017,DRVC2017,BASDEG,Bachelor's degree
+2017,DRVC2017,DOCDEGOT,Doctor's degree - other
+2017,DRVC2017,DOCDEGPP,Doctor's degree - professional practice
+2017,DRVC2017,DOCDEGRS,Doctor's degree - research/scholarship
+2017,DRVC2017,MASDEG,Master's degree
+2017,DRVC2017,SBASDEG,Number of students receiving a Bachelor's degree
+2017,DRVC2017,SDOCDEG,Number of students receiving a Doctor's degree
+2017,DRVC2017,SMASDEG,Number of students receiving a Master's degree
+2017,DRVEF122017,FTE12MN,12-month full-time equivalent enrollment: 2016-17
+2017,DRVEF122017,UNDUP,"12-month unduplicated headcount, total: 2016-17"
+2017,DRVF2017,F1COREXP,"Core expenses, total dollars (GASB)"
+2017,DRVF2017,F1CORREV,"Core revenues, total dollars (GASB)"
+2017,DRVF2017,F2COREXP,"Core expenses, total dollars (FASB)"
+2017,DRVF2017,F2CORREV,"Core revenues, total dollars (FASB)"
+2017,DRVF2017,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2017,DRVF2017,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2017,DRVHR2017,SFTEINST,Instructional FTE
+2017,DRVHR2017,SFTETOTL,Total FTE staff
+2017,EAP2017,EAPFT,Full-time employees
+2017,EAP2017,EAPPT,Part-time employees
+2017,EAP2017,EAPTOT,Total employees
+2017,EAP2017,FACSTAT,Faculty and tenure status
+2017,EAP2017,OCCUPCAT,Occupation
+2017,EFIA2017,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2016-17"
+2017,EFIA2017,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2016-17"
+2017,F1617_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2017,F1617_F1A,F1C011,Instruction - Current year total
+2017,F1617_F1A,F1C021,Research - Current year total
+2017,F1617_F1A,F1C051,Academic support - Current year total
+2017,F1617_F1A,F1C061,Student services - Current year total
+2017,F1617_F1A,F1C071,Institutional support - Current year total
+2017,F1617_F2,F2D01,Tuition and fees - Total
+2017,F1617_F2,F2E011,Instruction-Total amount
+2017,F1617_F2,F2E021,Research-Total amount
+2017,F1617_F2,F2E041,Academic support-Total amount
+2017,F1617_F2,F2E051,Student service-Total amount
+2017,F1617_F2,F2E061,Institutional support-Total amount
+2017,F1617_F3,F3D01,Tuition and fees
+2017,F1617_F3,F3E011,Instruction-Total amount
+2017,F1617_F3,F3E02A1,Research-Total amount
+2017,F1617_F3,F3E03A1,Academic support-Total amount
+2017,F1617_F3,F3E03B1,Student service-Total amount
+2017,F1617_F3,F3E03C1,Institutional support-Total amount
+2017,FLAGS2017,IDX_F,ID number of parent institution - Finance
+2017,FLAGS2017,PCF_F,Parent/child allocation factor - Finance
+2017,FLAGS2017,PRCH_F,Parent/child indicator - Finance
+2017,HD2017,C15BASIC,Carnegie Classification 2015: Basic
+2017,HD2017,CCBASIC,Carnegie Classification 2005/2010: Basic
+2017,HD2017,CONTROL,Control of institution
+2017,HD2017,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2017,HD2017,F1SYSNAM,Name of multi-institution or multi-campus organization
+2017,HD2017,F1SYSTYP,Multi-institution or multi-campus organization
+2017,HD2017,ICLEVEL,Level of institution
+2017,HD2017,INSTNM,Institution (entity) name
+2017,HD2017,STABBR,State abbreviation
+2017,S2017_IS,FACSTAT,Faculty and tenure status
+2017,S2017_NH,FACSTAT,Faculty and tenure status
+2017,S2017_NH,OCCUPCAT,Occupation
+2017,S2017_OC,OCCUPCAT,Occupation category
+2017,S2017_SIS,FACSTAT,Faculty and tenure status
+2018,DRVC2018,BASDEG,Bachelor's degree
+2018,DRVC2018,DOCDEGOT,Doctor's degree - other
+2018,DRVC2018,DOCDEGPP,Doctor's degree - professional practice
+2018,DRVC2018,DOCDEGRS,Doctor's degree - research/scholarship
+2018,DRVC2018,MASDEG,Master's degree
+2018,DRVC2018,SBASDEG,Number of students receiving a Bachelor's degree
+2018,DRVC2018,SDOCDEG,Number of students receiving a Doctor's degree
+2018,DRVC2018,SMASDEG,Number of students receiving a Master's degree
+2018,DRVEF122018,FTE12MN,12-month full-time equivalent enrollment: 2017-18
+2018,DRVEF122018,UNDUP,"12-month unduplicated headcount, total: 2017-18"
+2018,DRVF2018,F1COREXP,"Core expenses, total dollars (GASB)"
+2018,DRVF2018,F1CORREV,"Core revenues, total dollars (GASB)"
+2018,DRVF2018,F2COREXP,"Core expenses, total dollars (FASB)"
+2018,DRVF2018,F2CORREV,"Core revenues, total dollars (FASB)"
+2018,DRVF2018,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2018,DRVF2018,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2018,DRVHR2018,SFTEINST,Instructional FTE
+2018,DRVHR2018,SFTETOTL,Total FTE staff
+2018,EAP2018,EAPFT,Full-time employees
+2018,EAP2018,EAPPT,Part-time employees
+2018,EAP2018,EAPTOT,Total employees
+2018,EAP2018,FACSTAT,Faculty and tenure status
+2018,EAP2018,OCCUPCAT,Occupation
+2018,EFIA2018,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2017-18"
+2018,EFIA2018,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2017-18"
+2018,F1718_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2018,F1718_F1A,F1C011,Instruction - Current year total
+2018,F1718_F1A,F1C021,Research - Current year total
+2018,F1718_F1A,F1C051,Academic support - Current year total
+2018,F1718_F1A,F1C061,Student services - Current year total
+2018,F1718_F1A,F1C071,Institutional support - Current year total
+2018,F1718_F2,F2D01,Tuition and fees - Total
+2018,F1718_F2,F2E011,Instruction-Total amount
+2018,F1718_F2,F2E021,Research-Total amount
+2018,F1718_F2,F2E041,Academic support-Total amount
+2018,F1718_F2,F2E051,Student service-Total amount
+2018,F1718_F2,F2E061,Institutional support-Total amount
+2018,F1718_F3,F3D01,Tuition and fees
+2018,F1718_F3,F3E011,Instruction-Total amount
+2018,F1718_F3,F3E02A1,Research-Total amount
+2018,F1718_F3,F3E03A1,Academic support-Total amount
+2018,F1718_F3,F3E03B1,Student service-Total amount
+2018,F1718_F3,F3E03C1,Institutional support-Total amount
+2018,FLAGS2018,IDX_F,ID number of parent institution - Finance
+2018,FLAGS2018,PCF_F,Parent/child allocation factor - Finance
+2018,FLAGS2018,PRCH_F,Parent/child indicator - Finance
+2018,HD2018,C15BASIC,Carnegie Classification 2015: Basic
+2018,HD2018,C18BASIC,Carnegie Classification 2018: Basic
+2018,HD2018,CCBASIC,Carnegie Classification 2005/2010: Basic
+2018,HD2018,CONTROL,Control of institution
+2018,HD2018,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2018,HD2018,F1SYSNAM,Name of multi-institution or multi-campus organization
+2018,HD2018,F1SYSTYP,Multi-institution or multi-campus organization
+2018,HD2018,ICLEVEL,Level of institution
+2018,HD2018,INSTNM,Institution (entity) name
+2018,HD2018,STABBR,State abbreviation
+2018,S2018_IS,FACSTAT,Faculty and tenure status
+2018,S2018_NH,FACSTAT,Faculty and tenure status
+2018,S2018_NH,OCCUPCAT,Occupation
+2018,S2018_OC,OCCUPCAT,Occupation category
+2018,S2018_SIS,FACSTAT,Faculty and tenure status
+2019,DRVC2019,BASDEG,Bachelor's degree
+2019,DRVC2019,DOCDEGOT,Doctor's degree - other
+2019,DRVC2019,DOCDEGPP,Doctor's degree - professional practice
+2019,DRVC2019,DOCDEGRS,Doctor's degree - research/scholarship
+2019,DRVC2019,MASDEG,Master's degree
+2019,DRVC2019,SBASDEG,Number of students receiving a Bachelor's degree
+2019,DRVC2019,SDOCDEG,Number of students receiving a Doctor's degree
+2019,DRVC2019,SMASDEG,Number of students receiving a Master's degree
+2019,DRVEF122019,FTE12MN,12-month full-time equivalent enrollment: 2018-19
+2019,DRVEF122019,UNDUP,"12-month unduplicated headcount, total: 2018-19"
+2019,DRVF2019,F1COREXP,"Core expenses, total dollars (GASB)"
+2019,DRVF2019,F1CORREV,"Core revenues, total dollars (GASB)"
+2019,DRVF2019,F2COREXP,"Core expenses, total dollars (FASB)"
+2019,DRVF2019,F2CORREV,"Core revenues, total dollars (FASB)"
+2019,DRVF2019,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2019,DRVF2019,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2019,DRVHR2019,SFTEINST,Instructional FTE
+2019,DRVHR2019,SFTETOTL,Total FTE staff
+2019,EAP2019,EAPFT,Full-time employees
+2019,EAP2019,EAPPT,Part-time employees
+2019,EAP2019,EAPTOT,Total employees
+2019,EAP2019,FACSTAT,Faculty and tenure status
+2019,EAP2019,OCCUPCAT,Occupation
+2019,EFIA2019,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2018-19"
+2019,EFIA2019,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2018-19"
+2019,F1819_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2019,F1819_F1A,F1C011,Instruction - Current year total
+2019,F1819_F1A,F1C021,Research - Current year total
+2019,F1819_F1A,F1C051,Academic support - Current year total
+2019,F1819_F1A,F1C061,Student services - Current year total
+2019,F1819_F1A,F1C071,Institutional support - Current year total
+2019,F1819_F2,F2D01,Tuition and fees - Total
+2019,F1819_F2,F2E011,Instruction-Total amount
+2019,F1819_F2,F2E021,Research-Total amount
+2019,F1819_F2,F2E041,Academic support-Total amount
+2019,F1819_F2,F2E051,Student service-Total amount
+2019,F1819_F2,F2E061,Institutional support-Total amount
+2019,F1819_F3,F3D01,Tuition and fees
+2019,F1819_F3,F3E011,Instruction-Total amount
+2019,F1819_F3,F3E02A1,Research-Total amount
+2019,F1819_F3,F3E03A1,Academic support-Total amount
+2019,F1819_F3,F3E03B1,Student service-Total amount
+2019,F1819_F3,F3E03C1,Institutional support-Total amount
+2019,FLAGS2019,IDX_F,ID number of parent institution - Finance
+2019,FLAGS2019,PCF_F,Parent/child allocation factor - Finance
+2019,FLAGS2019,PRCH_F,Parent/child indicator - Finance
+2019,HD2019,C15BASIC,Carnegie Classification 2015: Basic
+2019,HD2019,C18BASIC,Carnegie Classification 2018: Basic
+2019,HD2019,CCBASIC,Carnegie Classification 2005/2010: Basic
+2019,HD2019,CONTROL,Control of institution
+2019,HD2019,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2019,HD2019,F1SYSNAM,Name of multi-institution or multi-campus organization
+2019,HD2019,F1SYSTYP,Multi-institution or multi-campus organization
+2019,HD2019,ICLEVEL,Level of institution
+2019,HD2019,INSTNM,Institution (entity) name
+2019,HD2019,STABBR,State abbreviation
+2019,S2019_IS,FACSTAT,Faculty and tenure status
+2019,S2019_NH,FACSTAT,Faculty and tenure status
+2019,S2019_NH,OCCUPCAT,Occupation
+2019,S2019_OC,OCCUPCAT,Occupation category
+2019,S2019_SIS,FACSTAT,Faculty and tenure status
+2020,DRVC2020,BASDEG,Bachelor's degree
+2020,DRVC2020,DOCDEGOT,Doctor's degree - other
+2020,DRVC2020,DOCDEGPP,Doctor's degree - professional practice
+2020,DRVC2020,DOCDEGRS,Doctor's degree - research/scholarship
+2020,DRVC2020,MASDEG,Master's degree
+2020,DRVC2020,SBASDEG,Number of students receiving a Bachelor's degree
+2020,DRVC2020,SDOCDEG,Number of students receiving a Doctor's degree
+2020,DRVC2020,SMASDEG,Number of students receiving a Master's degree
+2020,DRVEF122020,FTE12MN,12-month full-time equivalent enrollment
+2020,DRVEF122020,UNDUP,Total 12-month unduplicated headcount
+2020,DRVF2020,F1COREXP,"Core expenses, total dollars (GASB)"
+2020,DRVF2020,F1CORREV,"Core revenues, total dollars (GASB)"
+2020,DRVF2020,F2COREXP,"Core expenses, total dollars (FASB)"
+2020,DRVF2020,F2CORREV,"Core revenues, total dollars (FASB)"
+2020,DRVF2020,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2020,DRVF2020,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2020,DRVHR2020,SFTEINST,Instructional FTE
+2020,DRVHR2020,SFTETOTL,Total FTE staff
+2020,EAP2020,EAPFT,Full-time employees
+2020,EAP2020,EAPPT,Part-time employees
+2020,EAP2020,EAPTOT,Total employees
+2020,EAP2020,FACSTAT,Faculty and tenure status
+2020,EAP2020,OCCUPCAT,Occupation
+2020,EFIA2020,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2019-20"
+2020,EFIA2020,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2019-20"
+2020,F1920_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2020,F1920_F1A,F1C011,Instruction - Current year total
+2020,F1920_F1A,F1C021,Research - Current year total
+2020,F1920_F1A,F1C051,Academic support - Current year total
+2020,F1920_F1A,F1C061,Student services - Current year total
+2020,F1920_F1A,F1C071,Institutional support - Current year total
+2020,F1920_F2,F2D01,Tuition and fees - Total
+2020,F1920_F2,F2E011,Instruction-Total amount
+2020,F1920_F2,F2E021,Research-Total amount
+2020,F1920_F2,F2E041,Academic support-Total amount
+2020,F1920_F2,F2E051,Student service-Total amount
+2020,F1920_F2,F2E061,Institutional support-Total amount
+2020,F1920_F3,F3D01,Tuition and fees
+2020,F1920_F3,F3E011,Instruction-Total amount
+2020,F1920_F3,F3E02A1,Research-Total amount
+2020,F1920_F3,F3E03A1,Academic support-Total amount
+2020,F1920_F3,F3E03B1,Student service-Total amount
+2020,F1920_F3,F3E03C1,Institutional support-Total amount
+2020,FLAGS2020,IDX_F,ID number of parent institution - Finance
+2020,FLAGS2020,PCF_F,Parent/child allocation factor - Finance
+2020,FLAGS2020,PRCH_F,Parent/child indicator - Finance
+2020,HD2020,C15BASIC,Carnegie Classification 2015: Basic
+2020,HD2020,C18BASIC,Carnegie Classification 2018: Basic
+2020,HD2020,CCBASIC,Carnegie Classification 2005/2010: Basic
+2020,HD2020,CONTROL,Control of institution
+2020,HD2020,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2020,HD2020,F1SYSNAM,Name of multi-institution or multi-campus organization
+2020,HD2020,F1SYSTYP,Multi-institution or multi-campus organization
+2020,HD2020,ICLEVEL,Level of institution
+2020,HD2020,INSTNM,Institution (entity) name
+2020,HD2020,STABBR,State abbreviation
+2020,S2020_IS,FACSTAT,Faculty and tenure status
+2020,S2020_NH,FACSTAT,Faculty and tenure status
+2020,S2020_NH,OCCUPCAT,Occupation
+2020,S2020_OC,OCCUPCAT,Occupation category
+2020,S2020_SIS,FACSTAT,Faculty and tenure status
+2021,DRVC2021,BASDEG,Bachelor's degree
+2021,DRVC2021,DOCDEGOT,Doctor's degree - other
+2021,DRVC2021,DOCDEGPP,Doctor's degree - professional practice
+2021,DRVC2021,DOCDEGRS,Doctor's degree - research/scholarship
+2021,DRVC2021,MASDEG,Master's degree
+2021,DRVC2021,SBASDEG,Number of students receiving a Bachelor's degree
+2021,DRVC2021,SDOCDEG,Number of students receiving a Doctor's degree
+2021,DRVC2021,SMASDEG,Number of students receiving a Master's degree
+2021,DRVEF122021,FTE12MN,12-month full-time equivalent enrollment
+2021,DRVEF122021,UNDUP,Total 12-month unduplicated headcount
+2021,DRVF2021,F1COREXP,"Core expenses, total dollars (GASB)"
+2021,DRVF2021,F1CORREV,"Core revenues, total dollars (GASB)"
+2021,DRVF2021,F2COREXP,"Core expenses, total dollars (FASB)"
+2021,DRVF2021,F2CORREV,"Core revenues, total dollars (FASB)"
+2021,DRVF2021,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2021,DRVF2021,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2021,DRVHR2021,SFTEINST,Instructional FTE
+2021,DRVHR2021,SFTETOTL,Total FTE staff
+2021,EAP2021,EAPFT,Full-time employees
+2021,EAP2021,EAPPT,Part-time employees
+2021,EAP2021,EAPTOT,Total employees
+2021,EAP2021,FACSTAT,Faculty and tenure status
+2021,EAP2021,OCCUPCAT,Occupation
+2021,EFIA2021,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2020-21"
+2021,EFIA2021,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2020-21"
+2021,F2021_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2021,F2021_F1A,F1C011,Instruction - Current year total
+2021,F2021_F1A,F1C021,Research - Current year total
+2021,F2021_F1A,F1C051,Academic support - Current year total
+2021,F2021_F1A,F1C061,Student services - Current year total
+2021,F2021_F1A,F1C071,Institutional support - Current year total
+2021,F2021_F2,F2D01,Tuition and fees - Total
+2021,F2021_F2,F2E011,Instruction-Total amount
+2021,F2021_F2,F2E021,Research-Total amount
+2021,F2021_F2,F2E041,Academic support-Total amount
+2021,F2021_F2,F2E051,Student service-Total amount
+2021,F2021_F2,F2E061,Institutional support-Total amount
+2021,F2021_F3,F3D01,Tuition and fees
+2021,F2021_F3,F3E011,Instruction-Total amount
+2021,F2021_F3,F3E02A1,Research-Total amount
+2021,F2021_F3,F3E03A1,Academic support-Total amount
+2021,F2021_F3,F3E03B1,Student service-Total amount
+2021,F2021_F3,F3E03C1,Institutional support-Total amount
+2021,FLAGS2021,IDX_F,ID number of parent institution - Finance
+2021,FLAGS2021,PCF_F,Parent/child allocation factor - Finance
+2021,FLAGS2021,PRCH_F,Parent/child indicator - Finance
+2021,HD2021,C15BASIC,Carnegie Classification 2015: Basic
+2021,HD2021,C18BASIC,Carnegie Classification 2018: Basic
+2021,HD2021,C21BASIC,Carnegie Classification 2021: Basic
+2021,HD2021,CCBASIC,Carnegie Classification 2005/2010: Basic
+2021,HD2021,CONTROL,Control of institution
+2021,HD2021,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2021,HD2021,F1SYSNAM,Name of multi-institution or multi-campus organization
+2021,HD2021,F1SYSTYP,Multi-institution or multi-campus organization
+2021,HD2021,ICLEVEL,Level of institution
+2021,HD2021,INSTNM,Institution (entity) name
+2021,HD2021,STABBR,State abbreviation
+2021,S2021_IS,FACSTAT,Faculty and tenure status
+2021,S2021_NH,FACSTAT,Faculty and tenure status
+2021,S2021_NH,OCCUPCAT,Occupation
+2021,S2021_OC,OCCUPCAT,Occupation category
+2021,S2021_SIS,FACSTAT,Faculty and tenure status
+2022,DRVC2022,BASDEG,Bachelor's degree
+2022,DRVC2022,DOCDEGOT,Doctor's degree - other
+2022,DRVC2022,DOCDEGPP,Doctor's degree - professional practice
+2022,DRVC2022,DOCDEGRS,Doctor's degree - research/scholarship
+2022,DRVC2022,MASDEG,Master's degree
+2022,DRVC2022,SBASDEG,Number of students receiving a Bachelor's degree
+2022,DRVC2022,SDOCDEG,Number of students receiving a Doctor's degree
+2022,DRVC2022,SMASDEG,Number of students receiving a Master's degree
+2022,DRVEF122022,FTE12MN,12-month full-time equivalent enrollment
+2022,DRVEF122022,UNDUP,Total 12-month unduplicated headcount
+2022,DRVF2022,F1COREXP,"Core expenses, total dollars (GASB)"
+2022,DRVF2022,F1CORREV,"Core revenues, total dollars (GASB)"
+2022,DRVF2022,F2COREXP,"Core expenses, total dollars (FASB)"
+2022,DRVF2022,F2CORREV,"Core revenues, total dollars (FASB)"
+2022,DRVF2022,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2022,DRVF2022,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2022,DRVHR2022,SFTEINST,Instructional FTE
+2022,DRVHR2022,SFTETOTL,Total FTE staff
+2022,EAP2022,EAPFT,Full-time employees
+2022,EAP2022,EAPPT,Part-time employees
+2022,EAP2022,EAPTOT,Total employees
+2022,EAP2022,FACSTAT,Faculty and tenure status
+2022,EAP2022,OCCUPCAT,Occupation
+2022,EFIA2022,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2021-22"
+2022,EFIA2022,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2021-22"
+2022,F2122_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2022,F2122_F1A,F1C011,Instruction - Current year total
+2022,F2122_F1A,F1C021,Research - Current year total
+2022,F2122_F1A,F1C051,Academic support - Current year total
+2022,F2122_F1A,F1C061,Student services - Current year total
+2022,F2122_F1A,F1C071,Institutional support - Current year total
+2022,F2122_F2,F2D01,Tuition and fees - Total
+2022,F2122_F2,F2E011,Instruction-Total amount
+2022,F2122_F2,F2E021,Research-Total amount
+2022,F2122_F2,F2E041,Academic support-Total amount
+2022,F2122_F2,F2E051,Student service-Total amount
+2022,F2122_F2,F2E061,Institutional support-Total amount
+2022,F2122_F3,F3D01,Tuition and fees
+2022,F2122_F3,F3E011,Instruction-Total amount
+2022,F2122_F3,F3E02A1,Research-Total amount
+2022,F2122_F3,F3E03A1,Academic support-Total amount
+2022,F2122_F3,F3E03B1,Student service-Total amount
+2022,F2122_F3,F3E03C1,Institutional support-Total amount
+2022,FLAGS2022,IDX_F,ID number of parent institution - Finance
+2022,FLAGS2022,PCF_F,Parent/child allocation factor - Finance
+2022,FLAGS2022,PRCH_F,Parent/child indicator - Finance
+2022,HD2022,C15BASIC,Carnegie Classification 2015: Basic
+2022,HD2022,C18BASIC,Carnegie Classification 2018: Basic
+2022,HD2022,C21BASIC,Carnegie Classification 2021: Basic
+2022,HD2022,CCBASIC,Carnegie Classification 2005/2010: Basic
+2022,HD2022,CONTROL,Control of institution
+2022,HD2022,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2022,HD2022,F1SYSNAM,Name of multi-institution or multi-campus organization
+2022,HD2022,F1SYSTYP,Multi-institution or multi-campus organization
+2022,HD2022,ICLEVEL,Level of institution
+2022,HD2022,INSTNM,Institution (entity) name
+2022,HD2022,STABBR,State abbreviation
+2022,S2022_IS,FACSTAT,Faculty and tenure status
+2022,S2022_NH,FACSTAT,Faculty and tenure status
+2022,S2022_NH,OCCUPCAT,Occupation
+2022,S2022_OC,OCCUPCAT,Occupation category
+2022,S2022_SIS,FACSTAT,Faculty and tenure status
+2023,DRVC2023,BASDEG,Bachelor's degree
+2023,DRVC2023,DOCDEGOT,Doctor's degree - other
+2023,DRVC2023,DOCDEGPP,Doctor's degree - professional practice
+2023,DRVC2023,DOCDEGRS,Doctor's degree - research/scholarship
+2023,DRVC2023,MASDEG,Master's degree
+2023,DRVC2023,SBASDEG,Number of students receiving a Bachelor's degree
+2023,DRVC2023,SDOCDEG,Number of students receiving a Doctor's degree
+2023,DRVC2023,SMASDEG,Number of students receiving a Master's degree
+2023,DRVEF122023,FTE12MN,12-month full-time equivalent enrollment
+2023,DRVEF122023,UNDUP,Total 12-month unduplicated headcount
+2023,DRVF2023,F1COREXP,"Core expenses, total dollars (GASB)"
+2023,DRVF2023,F1CORREV,"Core revenues, total dollars (GASB)"
+2023,DRVF2023,F2COREXP,"Core expenses, total dollars (FASB)"
+2023,DRVF2023,F2CORREV,"Core revenues, total dollars (FASB)"
+2023,DRVF2023,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2023,DRVF2023,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2023,DRVHR2023,SFTEINST,Instructional FTE
+2023,DRVHR2023,SFTETOTL,Total FTE staff
+2023,EAP2023,EAPFT,Full-time employees
+2023,EAP2023,EAPPT,Part-time employees
+2023,EAP2023,EAPTOT,Total employees
+2023,EAP2023,FACSTAT,Faculty and tenure status
+2023,EAP2023,OCCUPCAT,Occupation
+2023,EFIA2023,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2022-23"
+2023,EFIA2023,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2022-23"
+2023,F2223_F1A,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2023,F2223_F1A,F1C011,Instruction - Current year total
+2023,F2223_F1A,F1C021,Research - Current year total
+2023,F2223_F1A,F1C051,Academic support - Current year total
+2023,F2223_F1A,F1C061,Student services - Current year total
+2023,F2223_F1A,F1C071,Institutional support - Current year total
+2023,F2223_F2,F2D01,Tuition and fees - Total
+2023,F2223_F2,F2E011,Instruction-Total amount
+2023,F2223_F2,F2E021,Research-Total amount
+2023,F2223_F2,F2E041,Academic support-Total amount
+2023,F2223_F2,F2E051,Student service-Total amount
+2023,F2223_F2,F2E061,Institutional support-Total amount
+2023,F2223_F3,F3D01,Tuition and fees
+2023,F2223_F3,F3E011,Instruction-Total amount
+2023,F2223_F3,F3E02A1,Research-Total amount
+2023,F2223_F3,F3E03A1,Academic support-Total amount
+2023,F2223_F3,F3E03B1,Student service-Total amount
+2023,F2223_F3,F3E03C1,Institutional support-Total amount
+2023,FLAGS2023,IDX_F,ID number of parent institution - Finance
+2023,FLAGS2023,PCF_F,Parent/child allocation factor - Finance
+2023,FLAGS2023,PRCH_F,Parent/child indicator - Finance
+2023,HD2023,C15BASIC,Carnegie Classification 2015: Basic
+2023,HD2023,C18BASIC,Carnegie Classification 2018: Basic
+2023,HD2023,C21BASIC,Carnegie Classification 2021: Basic
+2023,HD2023,CCBASIC,Carnegie Classification 2005/2010: Basic
+2023,HD2023,CONTROL,Control of institution
+2023,HD2023,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2023,HD2023,F1SYSNAM,Name of multi-institution or multi-campus organization
+2023,HD2023,F1SYSTYP,Multi-institution or multi-campus organization
+2023,HD2023,ICLEVEL,Level of institution
+2023,HD2023,INSTNM,Institution (entity) name
+2023,HD2023,STABBR,State abbreviation
+2023,S2023_IS,FACSTAT,Faculty and tenure status
+2023,S2023_NH,FACSTAT,Faculty and tenure status
+2023,S2023_NH,OCCUPCAT,Occupation
+2023,S2023_OC,OCCUPCAT,Occupation category
+2023,S2023_SIS,FACSTAT,Faculty and tenure status
+2024,drvc2024,BASDEG,Bachelor's degree
+2024,drvc2024,DOCDEGOT,Doctor's degree - other
+2024,drvc2024,DOCDEGPP,Doctor's degree - professional practice
+2024,drvc2024,DOCDEGRS,Doctor's degree - research/scholarship
+2024,drvc2024,MASDEG,Master's degree
+2024,drvc2024,SBASDEG,Number of students receiving a Bachelor's degree
+2024,drvc2024,SDOCDEG,Number of students receiving a Doctor's degree
+2024,drvc2024,SMASDEG,Number of students receiving a Master's degree
+2024,drvef122024,FTE12MN,12-month full-time equivalent enrollment
+2024,drvef122024,UNDUP,Total 12-month unduplicated headcount
+2024,drvf2024,F1COREXP,"Core expenses, total dollars (GASB)"
+2024,drvf2024,F1CORREV,"Core revenues, total dollars (GASB)"
+2024,drvf2024,F2COREXP,"Core expenses, total dollars (FASB)"
+2024,drvf2024,F2CORREV,"Core revenues, total dollars (FASB)"
+2024,drvf2024,F3COREXP,"Core expenses, total dollars (for-profit institutons)"
+2024,drvf2024,F3CORREV,"Core revenues, total dollars (for-profit institutions)"
+2024,drvhr2024,SFTEINST,Instructional FTE
+2024,drvhr2024,SFTETOTL,Total FTE staff
+2024,eap2024,EAPFT,Full-time employees
+2024,eap2024,EAPPT,Part-time employees
+2024,eap2024,EAPTOT,Total employees
+2024,eap2024,FACSTAT,Faculty and tenure status
+2024,eap2024,OCCUPCAT,Occupation
+2024,efia2024,FTEGD,"Reported full-time equivalent (FTE) graduate enrollment, 2023-24"
+2024,efia2024,FTEUG,"Reported full-time equivalent (FTE) undergraduate enrollment, 2023-24"
+2024,f2324_f1a,F1B01,"Tuition and fees, after deducting discounts and allowances"
+2024,f2324_f1a,F1C011,Instruction - Current year total
+2024,f2324_f1a,F1C021,Research - Current year total
+2024,f2324_f1a,F1C051,Academic support - Current year total
+2024,f2324_f1a,F1C061,Student services - Current year total
+2024,f2324_f1a,F1C071,Institutional support - Current year total
+2024,f2324_f2,F2D01,Tuition and fees - Total
+2024,f2324_f2,F2E011,Instruction-Total amount
+2024,f2324_f2,F2E021,Research-Total amount
+2024,f2324_f2,F2E041,Academic support-Total amount
+2024,f2324_f2,F2E051,Student service-Total amount
+2024,f2324_f2,F2E061,Institutional support-Total amount
+2024,f2324_f3,F3D01,Tuition and fees
+2024,f2324_f3,F3E011,Instruction-Total amount
+2024,f2324_f3,F3E02A1,Research-Total amount
+2024,f2324_f3,F3E03A1,Academic support-Total amount
+2024,f2324_f3,F3E03B1,Student service-Total amount
+2024,f2324_f3,F3E03C1,Institutional support-Total amount
+2024,flags2024,IDX_F,ID number of parent institution - Finance
+2024,flags2024,PCF_F,Parent/child allocation factor - Finance
+2024,flags2024,PRCH_F,Parent/child indicator - Finance
+2024,hd2024,C21BASIC,Carnegie Classification 2021: Basic
+2024,hd2024,CONTROL,Control of institution
+2024,hd2024,F1SYSCOD,Identification number of multi-institution or multi-campus organization
+2024,hd2024,F1SYSNAM,Name of multi-institution or multi-campus organization
+2024,hd2024,F1SYSTYP,Multi-institution or multi-campus organization
+2024,hd2024,ICLEVEL,Level of institution
+2024,hd2024,INSTNM,Institution (entity) name
+2024,hd2024,STABBR,State abbreviation
+2024,s2024_is,FACSTAT,Faculty and tenure status
+2024,s2024_nh,FACSTAT,Faculty and tenure status
+2024,s2024_nh,OCCUPCAT,Occupation
+2024,s2024_oc,OCCUPCAT,Occupation category
+2024,s2024_sis,FACSTAT,Faculty and tenure status

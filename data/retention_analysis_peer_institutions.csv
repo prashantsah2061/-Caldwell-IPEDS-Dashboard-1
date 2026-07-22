@@ -1,0 +1,151 @@
+"Year","UNITID","Institution","State","FullTimeCohort","FullTimeRetained","FullTimeRetentionRate","PartTimeCohort","PartTimeRetained","PartTimeRetentionRate","FullTimeYoYChange","PartTimeYoYChange","RetentionGap"
+2015,"183910","Caldwell University","NJ",386,316,82,,,,,,
+2016,"183910","Caldwell University","NJ",347,266,77,6,2,33,-5,,44
+2017,"183910","Caldwell University","NJ",400,337,84,,,,7,,
+2018,"183910","Caldwell University","NJ",361,285,79,,,,-5,,
+2019,"183910","Caldwell University","NJ",494,392,79,3,2,67,0,,12
+2020,"183910","Caldwell University","NJ",445,365,82,,,,3,,
+2021,"183910","Caldwell University","NJ",445,328,74,,,,-8,,
+2022,"183910","Caldwell University","NJ",349,247,71,0,0,,-3,,
+2023,"183910","Caldwell University","NJ",444,324,73,1,1,100,2,,-27
+2024,"183910","Caldwell University","NJ",343,265,77,2,0,0,4,-100,77
+2015,"183974","Centenary University","NJ",230,180,78,2,0,0,,,78
+2016,"183974","Centenary University","NJ",218,190,87,2,2,100,9,100,-13
+2017,"183974","Centenary University","NJ",237,185,78,6,1,17,-9,-83,61
+2018,"183974","Centenary University","NJ",212,146,69,7,1,14,-9,-3,55
+2019,"183974","Centenary University","NJ",224,159,71,10,5,50,2,36,21
+2020,"183974","Centenary University","NJ",200,145,73,5,3,60,2,10,13
+2021,"183974","Centenary University","NJ",230,172,75,4,1,25,2,-35,50
+2022,"183974","Centenary University","NJ",241,184,76,6,2,33,1,8,43
+2023,"183974","Centenary University","NJ",187,140,75,2,2,100,-1,67,-25
+2024,"183974","Centenary University","NJ",176,137,78,0,0,,3,,
+2015,"184348","Drew University","NJ",302,257,85,0,0,,,,
+2016,"184348","Drew University","NJ",356,311,87,1,1,100,2,,-13
+2017,"184348","Drew University","NJ",350,298,85,,,,-2,,
+2018,"184348","Drew University","NJ",371,310,84,,,,-1,,
+2019,"184348","Drew University","NJ",420,356,85,,,,1,,
+2020,"184348","Drew University","NJ",400,350,88,,,,3,,
+2021,"184348","Drew University","NJ",343,303,88,,,,0,,
+2022,"184348","Drew University","NJ",359,315,88,,,,0,,
+2023,"184348","Drew University","NJ",309,261,84,,,,-4,,
+2024,"184348","Drew University","NJ",404,357,88,0,0,,4,,
+2015,"232025","Emory & Henry University","VA",284,200,70,0,0,,,,
+2016,"232025","Emory & Henry University","VA",303,213,70,1,0,0,0,,70
+2017,"232025","Emory & Henry University","VA",284,216,76,0,0,,6,,
+2018,"232025","Emory & Henry University","VA",253,186,74,0,0,,-2,,
+2019,"232025","Emory & Henry University","VA",268,205,76,0,0,,2,,
+2020,"232025","Emory & Henry University","VA",270,204,76,1,1,100,0,,-24
+2021,"232025","Emory & Henry University","VA",235,168,71,0,0,,-5,,
+2022,"232025","Emory & Henry University","VA",390,263,67,0,0,,-4,,
+2023,"232025","Emory & Henry University","VA",347,240,69,0,0,,2,,
+2024,"232025","Emory & Henry University","VA",338,224,66,1,0,0,-3,,66
+2015,"184612","Felician University","NJ",270,226,84,0,0,,,,
+2016,"184612","Felician University","NJ",296,249,84,2,2,100,0,,-16
+2017,"184612","Felician University","NJ",316,239,76,0,0,,-8,,
+2018,"184612","Felician University","NJ",308,236,77,,,,1,,
+2019,"184612","Felician University","NJ",288,225,78,,,,1,,
+2020,"184612","Felician University","NJ",381,301,79,1,0,0,1,,79
+2021,"184612","Felician University","NJ",419,307,73,0,0,,-6,,
+2022,"184612","Felician University","NJ",305,213,70,1,0,0,-3,,70
+2023,"184612","Felician University","NJ",265,213,80,,,,10,,
+2024,"184612","Felician University","NJ",350,265,76,0,0,,-4,,
+2015,"184773","Georgian Court University","NJ",228,178,78,2,0,0,,,78
+2016,"184773","Georgian Court University","NJ",149,126,85,2,2,100,7,100,-15
+2017,"184773","Georgian Court University","NJ",221,160,72,0,0,,-13,,
+2018,"184773","Georgian Court University","NJ",216,159,74,0,0,,2,,
+2019,"184773","Georgian Court University","NJ",280,220,79,3,0,0,5,,79
+2020,"184773","Georgian Court University","NJ",187,151,81,10,10,100,2,100,-19
+2021,"184773","Georgian Court University","NJ",194,135,70,7,6,86,-11,-14,-16
+2022,"184773","Georgian Court University","NJ",198,143,72,10,9,90,2,4,-18
+2023,"184773","Georgian Court University","NJ",196,149,76,8,6,75,4,-15,1
+2024,"184773","Georgian Court University","NJ",226,172,76,6,4,67,0,-8,9
+2015,"212984","Holy Family University","PA",250,192,77,1,1,100,,,-23
+2016,"212984","Holy Family University","PA",341,260,76,2,0,0,-1,-100,76
+2017,"212984","Holy Family University","PA",328,255,78,0,0,,2,,
+2018,"212984","Holy Family University","PA",356,283,79,5,1,20,1,,59
+2019,"212984","Holy Family University","PA",353,258,73,1,0,0,-6,-20,73
+2020,"212984","Holy Family University","PA",344,284,83,,,,10,,
+2021,"212984","Holy Family University","PA",348,285,82,1,0,0,-1,,82
+2022,"212984","Holy Family University","PA",346,274,79,1,1,100,-3,100,-21
+2023,"212984","Holy Family University","PA",331,275,83,1,0,0,4,-100,83
+2024,"212984","Holy Family University","PA",449,349,78,4,0,0,-5,0,78
+2015,"147013","McKendree University","IL",403,286,71,,,,,,
+2016,"147013","McKendree University","IL",346,264,76,,,,5,,
+2017,"147013","McKendree University","IL",441,332,75,,,,-1,,
+2018,"147013","McKendree University","IL",352,277,79,0,0,,4,,
+2019,"147013","McKendree University","IL",325,244,75,,,,-4,,
+2020,"147013","McKendree University","IL",310,235,76,,,,1,,
+2021,"147013","McKendree University","IL",339,246,73,,,,-3,,
+2022,"147013","McKendree University","IL",252,190,75,,,,2,,
+2023,"147013","McKendree University","IL",402,274,68,4,3,75,-7,,-7
+2024,"147013","McKendree University","IL",389,262,67,1,1,100,-1,25,-33
+2015,"193353","Mount Saint Mary College","NY",411,320,78,2,1,50,,,28
+2016,"193353","Mount Saint Mary College","NY",422,326,77,0,0,,-1,,
+2017,"193353","Mount Saint Mary College","NY",384,301,78,3,0,0,1,,78
+2018,"193353","Mount Saint Mary College","NY",399,339,85,2,1,50,7,50,35
+2019,"193353","Mount Saint Mary College","NY",388,309,80,0,0,,-5,,
+2020,"193353","Mount Saint Mary College","NY",336,262,78,3,0,0,-2,,78
+2021,"193353","Mount Saint Mary College","NY",281,206,73,3,1,33,-5,33,40
+2022,"193353","Mount Saint Mary College","NY",253,199,79,5,0,0,6,-33,79
+2023,"193353","Mount Saint Mary College","NY",222,165,74,14,2,14,-5,14,60
+2024,"193353","Mount Saint Mary College","NY",182,134,74,6,0,0,0,-14,74
+2015,"214272","Neumann University","PA",415,291,70,1,1,100,,,-30
+2016,"214272","Neumann University","PA",400,275,69,0,0,,-1,,
+2017,"214272","Neumann University","PA",375,290,77,0,0,,8,,
+2018,"214272","Neumann University","PA",360,254,71,0,0,,-6,,
+2019,"214272","Neumann University","PA",421,318,76,0,0,,5,,
+2020,"214272","Neumann University","PA",415,319,77,2,0,0,1,,77
+2021,"214272","Neumann University","PA",411,300,73,1,0,0,-4,0,73
+2022,"214272","Neumann University","PA",358,254,71,1,1,100,-2,100,-29
+2023,"214272","Neumann University","PA",392,272,69,0,0,,-2,,
+2024,"214272","Neumann University","PA",369,266,72,0,0,,3,,
+2015,"186432","Saint Peter's University","NJ",582,470,81,2,2,100,,,-19
+2016,"186432","Saint Peter's University","NJ",567,457,81,1,1,100,0,0,-19
+2017,"186432","Saint Peter's University","NJ",626,512,82,,,,1,,
+2018,"186432","Saint Peter's University","NJ",651,535,82,0,0,,0,,
+2019,"186432","Saint Peter's University","NJ",562,455,81,0,0,,-1,,
+2020,"186432","Saint Peter's University","NJ",423,316,75,0,0,,-6,,
+2021,"186432","Saint Peter's University","NJ",424,325,77,1,1,100,2,,-23
+2022,"186432","Saint Peter's University","NJ",400,310,78,4,0,0,1,-100,78
+2023,"186432","Saint Peter's University","NJ",398,285,72,3,2,67,-6,67,5
+2024,"186432","Saint Peter's University","NJ",450,323,72,3,2,67,0,0,5
+2015,"150534","University of Evansville","IN",532,430,81,,,,,,
+2016,"150534","University of Evansville","IN",514,456,89,,,,8,,
+2017,"150534","University of Evansville","IN",537,453,84,,,,-5,,
+2018,"150534","University of Evansville","IN",442,378,86,,,,2,,
+2019,"150534","University of Evansville","IN",498,416,84,,,,-2,,
+2020,"150534","University of Evansville","IN",445,389,87,,,,3,,
+2021,"150534","University of Evansville","IN",395,307,78,,,,-9,,
+2022,"150534","University of Evansville","IN",327,262,80,0,0,,2,,
+2023,"150534","University of Evansville","IN",377,292,77,0,0,,-3,,
+2024,"150534","University of Evansville","IN",462,385,83,0,0,,6,,
+2015,"193399","University of Mount Saint Vincent","NY",518,403,78,,,,,,
+2016,"193399","University of Mount Saint Vincent","NY",321,249,78,,,,0,,
+2017,"193399","University of Mount Saint Vincent","NY",436,317,73,0,0,,-5,,
+2018,"193399","University of Mount Saint Vincent","NY",447,342,77,,,,4,,
+2019,"193399","University of Mount Saint Vincent","NY",412,321,78,,,,1,,
+2020,"193399","University of Mount Saint Vincent","NY",440,333,76,,,,-2,,
+2021,"193399","University of Mount Saint Vincent","NY",413,284,69,4,1,25,-7,,44
+2022,"193399","University of Mount Saint Vincent","NY",373,256,69,1,0,0,0,-25,69
+2023,"193399","University of Mount Saint Vincent","NY",493,350,71,1,0,0,2,0,71
+2024,"193399","University of Mount Saint Vincent","NY",486,355,73,3,2,67,2,67,6
+2015,"197197","Wagner College","NY",441,355,80,,,,,,
+2016,"197197","Wagner College","NY",415,353,85,0,0,,5,,
+2017,"197197","Wagner College","NY",439,335,76,1,1,100,-9,,-24
+2018,"197197","Wagner College","NY",430,349,81,0,0,,5,,
+2019,"197197","Wagner College","NY",415,332,80,0,0,,-1,,
+2020,"197197","Wagner College","NY",408,304,75,0,0,,-5,,
+2021,"197197","Wagner College","NY",373,305,82,,,,7,,
+2022,"197197","Wagner College","NY",355,290,82,0,0,,0,,
+2023,"197197","Wagner College","NY",404,330,82,,,,0,,
+2024,"197197","Wagner College","NY",398,332,83,,,,1,,
+2015,"216807","Westminster College","PA",278,241,87,3,1,33,,,54
+2016,"216807","Westminster College","PA",299,253,85,,,,-2,,
+2017,"216807","Westminster College","PA",371,291,78,,,,-7,,
+2018,"216807","Westminster College","PA",332,254,77,,,,-1,,
+2019,"216807","Westminster College","PA",348,273,78,,,,1,,
+2020,"216807","Westminster College","PA",279,224,80,0,0,,2,,
+2021,"216807","Westminster College","PA",229,204,89,0,0,,9,,
+2022,"216807","Westminster College","PA",303,249,82,1,0,0,-7,,82
+2023,"216807","Westminster College","PA",287,239,83,0,0,,1,,
+2024,"216807","Westminster College","PA",310,251,81,0,0,,-2,,

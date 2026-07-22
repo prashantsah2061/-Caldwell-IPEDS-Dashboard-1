@@ -1,0 +1,32 @@
+StandardizedColumn,Component,SourceTableFamily,AnnualVariables,Notes
+Institution,Directory,HDYYYY,INSTNM,Verified by UNITID; names can vary by year.
+State,Directory,HDYYYY,STABBR,
+Control,Directory,HDYYYY + VALUESETSYY,CONTROL,Decoded with annual VALUESETS table.
+InstitutionLevel,Directory,HDYYYY + VALUESETSYY,ICLEVEL,Decoded with annual VALUESETS table.
+CarnegieClassification,Directory,HDYYYY + VALUESETSYY,C21BASIC / C18BASIC / C15BASIC / CCBASIC,Annual Carnegie basic classification field selected by availability.
+TotalFTE,12-month enrollment,DRVEF12YYYY,FTE12MN,"Official 12-month FTE; if missing and UG/Grad FTE valid, EFIA FTEUG + FTEGD."
+UndergraduateFTE,12-month enrollment,EFIAYYYY,FTEUG,Official reported undergraduate FTE.
+GraduateFTE,12-month enrollment,EFIAYYYY,FTEGD,Official reported graduate FTE.
+TwelveMonthHeadcount,12-month enrollment,DRVEF12YYYY,UNDUP,12-month unduplicated headcount.
+BachelorsDegrees,Completions,DRVCYYYY,BASDEG,Award counts; certificates excluded.
+MastersDegrees,Completions,DRVCYYYY,MASDEG,Award counts; certificates excluded.
+DoctoralDegrees,Completions,DRVCYYYY,DOCDEGRS + DOCDEGPP + DOCDEGOT,All doctoral award categories.
+TotalDegreesAwarded,Completions,DRVCYYYY,BASDEG + MASDEG + DOCDEGRS + DOCDEGPP + DOCDEGOT,Defined for this analysis; certificates excluded.
+TotalCompleters,Completions,DRVCYYYY,SBASDEG + SMASDEG + SDOCDEG,Degree-level recipient counts; kept separate from awards.
+FinanceReportingStandard,Finance,DRVFYYYY,F1*/F2*/F3* nonmissing core expense prefix,"F1 public/GASB, F2 private nonprofit/FASB, F3 private for-profit/FASB."
+TotalCoreRevenue,Finance,DRVFYYYY,F1CORREV / F2CORREV / F3CORREV,Matched by reporting standard.
+TuitionAndFeeRevenue,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1B01 / F2D01 / F3D01,Raw annual finance amount matched by reporting standard.
+TotalCoreExpenses,Finance,DRVFYYYY,F1COREXP / F2COREXP / F3COREXP,Matched by reporting standard.
+InstructionExpenses,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1C011 / F2E011 / F3E011,Raw functional expense amount matched by reporting standard.
+ResearchExpenses,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1C021 / F2E021 / F3E02A1,Raw functional expense amount matched by reporting standard.
+AcademicSupportExpenses,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1C051 / F2E041 / F3E03A1,Raw functional expense amount matched by reporting standard.
+StudentServicesExpenses,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1C061 / F2E051 / F3E03B1,Raw functional expense amount matched by reporting standard.
+InstitutionalSupportExpenses,Finance,Fyyyy_F1A / Fyyyy_F2 / Fyyyy_F3,F1C071 / F2E061 / F3E03C1,Raw functional expense amount matched by reporting standard.
+FinanceParentChildStatus,Directory/flags,HDYYYY + FLAGSYYYY,"IDX_F, PRCH_F, PCF_F, F1SYSTYP, F1SYSNAM, F1SYSCOD",Flags parent/child finance reporting and system status.
+FullTimeInstructionalStaff,Human Resources,EAPYYYY,EAPFT where OCCUPCAT = 210 and FACSTAT = 0,"Instructional staff headcount, not total staff."
+PartTimeInstructionalStaff,Human Resources,EAPYYYY,EAPPT where OCCUPCAT = 210 and FACSTAT = 0,"Instructional staff headcount, not total staff."
+InstructionalStaffFTE,Human Resources,DRVHRYYYY,SFTEINST,Official HR FTE; not estimated.
+FullTimeStaff,Human Resources,EAPYYYY,EAPFT where OCCUPCAT = 100 and FACSTAT = 0,All staff headcount.
+PartTimeStaff,Human Resources,EAPYYYY,EAPPT where OCCUPCAT = 100 and FACSTAT = 0,All staff headcount.
+TotalStaffHeadcount,Human Resources,EAPYYYY,EAPTOT where OCCUPCAT = 100 and FACSTAT = 0,All staff headcount.
+TotalStaffFTE,Human Resources,DRVHRYYYY,SFTETOTL,Official HR FTE; not estimated.
